@@ -1,5 +1,7 @@
 # List of Tech Skills to learn
 
+---
+
 ## Python
 
 ### Standard Library
@@ -19,5 +21,9 @@
 ## **`bash`** scripting
 
 * [ ] Flags and arguments (`-f`, `--arg`)
+
+## **`Lua`** Programming
+
+* [ ] Learn basics
 
 ---

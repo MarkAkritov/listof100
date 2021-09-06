@@ -1,4 +1,4 @@
-# List Of 100
+# ==List Of 100==
 
 ## List of goals/things/experience etc. to achieve in life
 
@@ -24,9 +24,9 @@
    8. [ ] Learn **Lua** *(programming language)*
 
    9. [ ] Do a **hardware** project
-      - **Macropad**
-      - **Drone**
-      - **Home** automation
+      - [ ] **Macropad**
+      - [ ] **Drone**
+      - [ ] **Home** automation
 
    10. [ ] Start an **open source** project
 
@@ -37,3 +37,7 @@
    13. [ ] **Scubadive**
 
    14. [ ] Learn to ride a **helicopter**
+
+   15. [ ] Watch **football** match at **stadium**
+
+   16. [ ] Live in **Greece** for a while
