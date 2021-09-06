@@ -4,8 +4,8 @@
 
 ### *Not actually 100* 😇
 
-   1. [ ] Read **1000** books *(starting from 08/2021)*
-      - List available at [List of Books](./listbooks.md)
+   1. [ ] Read **1000** **books** *(starting from 08/2021)*
+      - List available at [List of Books](./listbooks.md)📚
 
    2. [ ] Write a **book**
       - At least one
@@ -41,3 +41,6 @@
    15. [ ] Watch **football** match at **stadium**
 
    16. [ ] Live in **Greece** for a while
+
+   17. [ ] Be in a **jungle**
+       - [ ] **Amazon**
