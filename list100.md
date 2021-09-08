@@ -44,3 +44,5 @@
 
    17. [ ] Be in a **jungle**
        - [ ] **Amazon**
+
+   18. [ ] Establish a general development strategic **labs**
