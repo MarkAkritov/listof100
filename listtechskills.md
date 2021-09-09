@@ -18,6 +18,10 @@
 
 * [ ] **`click`**
 
+### `async`hronous Programming
+
+* [ ] **`asyncio`**
+
 ## **`bash`** scripting
 
 * [ ] Flags and arguments (`-f`, `--arg`)
