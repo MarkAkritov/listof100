@@ -1,3 +1,12 @@
+from typing import List, TextIO
+
+
+f: TextIO
+lines: List[str]
+read:  List[str]
+cnt_read: int
+
+
 if __name__ == "__main__":
 
     with open("./listbooks.md", "r", encoding="utf-8") as f:

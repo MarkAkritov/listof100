@@ -10,6 +10,10 @@
 
 * [ ] **`functools`**
 
+* [ ] **`smtplib`**
+
+* [ ] **`dataclasses`**
+
 ### CLI
 
 * [ ] **`argparse`**
@@ -18,12 +22,28 @@
 
 * [ ] **`click`**
 
+* [ ] **`Typer`**
+
+### TDD (Test Driven Development)
+
+* [ ] **`unittest`**
+
+---
+
 ## **`bash`** scripting
 
 * [ ] Flags and arguments (`-f`, `--arg`)
 
+---
+
 ## **`Lua`** Programming
 
 * [ ] Learn basics
+
+* [ ] **`Splash`** with **`Scrapy`**
+
+* [ ] Rice **`awesomewm`**
+
+* [ ] Confihure **`neovim`**
 
 ---
