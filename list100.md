@@ -38,7 +38,7 @@
 
    14. [ ] Learn to ride a **helicopter**
 
-   15. [ ] Watch **football** match at **stadium**
+   15. [x] Watch **football** match at **stadium**
 
    16. [ ] Live in **Greece** for a while
 

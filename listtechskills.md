@@ -22,18 +22,25 @@
 
 * [ ] **`click`**
 
+* [ ] **`Typer`**
+
 ### `async`hronous Programming
 
 * [ ] **`asyncio`**
-* [ ] **`Typer`**
 
 ### TDD (Test Driven Development)
 
 * [ ] **`unittest`**
 
+### Mischelaneous
+
+* [ ] `pydantic`
+
 ---
 
 ## **`bash`** scripting
+
+* [ ] Making custom `alias`es
 
 * [ ] Flags and arguments (`-f`, `--arg`)
 
