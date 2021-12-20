@@ -47,7 +47,7 @@
 
 ### Эрих Мария Ремарк {#remark}
 
-* [ ] **"Жизнь в Займы"** - *Эрих Мария Ремарк*
+* [x] ~~**"Жизнь в Займы"**~~ - *Эрих Мария Ремарк*
 
 * [ ] **"Искра Жизни"** - *Эрих Мария Ремарк*
 
@@ -59,13 +59,18 @@
 
 * [x] ~~**"Повелитель Мух"**~~ - *Уильам Голдинг*
 
+* [x] ~~**Հիսուսի Կատուն**~~ ֊ *Գրիգ*
+
 * [ ] **"Десятъ Негритят"** - *Агата Кристи*
+
 
 ## ==Professional Literature== {#prof-lit}
 
 ### Machine Learning {#ml}
 
 * [ ] **Hands on Machine Learning with Scikit-Learn and Tensorflow** - *Aurélien Géron*
+
+* [ ] **Hands-On Gradient Boosting with XGBoost and Scikit-learn** - *Corey Wade*
 
 * [ ] **The 100 Page ML Book** - *Andriy Burkov*
 
@@ -80,7 +85,7 @@
 
 <!-- Automated -->
 Read [^1]
-: `3/1000`
+: `5/1000`
 
 <!-- /Summary -->
 </details>
